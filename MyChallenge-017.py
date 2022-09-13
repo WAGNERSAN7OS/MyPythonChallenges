@@ -1,5 +1,5 @@
 # Fazer um "PROGRAMA" que leia o comprimento do "CATETO OPOSTO" e do "CATETO ADJACENTE" de um "TRIÂNGULO RETÂNGULO".
-# Calcular e mostrar o "COMPRIMENTO DA HIPOTENUSA".
+# Calcular e Exibir o "COMPRIMENTO DA HIPOTENUSA".
 
 """
 Relações Trigonométricas:
