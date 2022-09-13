@@ -3,9 +3,9 @@
 # Exemplo:
 
 # Digite um Número: 1979
-# Unidade.....: 4
-# Dezena......: 3
-# Centena.....: 8
+# Unidade.....: 9
+# Dezena......: 7
+# Centena.....: 9
 # Milhar......: 1
 
 print(' +++++ @WAGNERSAN7OS +++++ ')
