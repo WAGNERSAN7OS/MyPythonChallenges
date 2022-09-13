@@ -21,7 +21,7 @@ fullname = str(input('Enter your full name here: '))
 
 print()
 
-print('*** INFORMATION COLLECTED: STRINGS in PYTHON ***')
+print('*** INFORMATION COLLECTED: TEXT ANALYZER ***')
 
 print()
 
