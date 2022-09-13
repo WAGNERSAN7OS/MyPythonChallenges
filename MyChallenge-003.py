@@ -1,4 +1,4 @@
-# Criar um Script em Python que leia dois "NÚMEROS" e tente mostrar
+# Criar um Script em Python que leia dois "NÚMEROS" e tente Exibir
 # a "SOMA", "SUBTRAÇÃO", "MULTIPLICAÇÃO", "DIVISÃO".
 
 print(' +++++ @WAGNERSAN7OS +++++ ')
