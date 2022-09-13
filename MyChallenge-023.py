@@ -1,4 +1,4 @@
-# Fazer um PROGRAMA que "LEIA" um "NÚMERO" de 0 até 9999 e mostra na "TELA" cada um dos Dígitos separados.
+# Fazer um "PROGRAMA" que "LEIA" um "NÚMERO" de 0 até 9999 e mostra na "TELA" cada um dos Dígitos separados.
 
 # Exemplo:
 
