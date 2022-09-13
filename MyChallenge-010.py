@@ -1,5 +1,5 @@
 # Escrever um Programa que "LEIA" quanto "DINHEIRO" uma pessoa tem "R$" na Carteira
-# e "MOSTRAR" quanto em "DOLLAR" esta pessoa pode "COMPRAR".
+# e "Exibir" quanto em "DOLLAR" esta pessoa pode "COMPRAR".
 
 """
  *** Cotação DOLLAR US$:
