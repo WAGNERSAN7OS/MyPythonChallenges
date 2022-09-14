@@ -17,7 +17,7 @@ cidade = str(input('Enter City Name: ')).strip()
 
 print()
 
-print('*** INFORMATION COLLECTED: CHECKING THE FIRST LETTERS OF A WORD ***')
+print('*** INFORMATION COLLECTED: CHECKING FIRST NAME ***')
 
 print()
 
